@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798604230856",
+    "project_id": "aviator-game-59a70",
+    "storage_bucket": "aviator-game-59a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798604230856:android:aa4bb304f1c6fc6f1a65fd",
+        "android_client_info": {
+          "package_name": "com.aviator.crash.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798604230856-moqp6lsrej9jd002cq4p39jsk6vfhkav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhocwOxw2i2r3kRcT5Fl-HDFStN1-Rkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798604230856-moqp6lsrej9jd002cq4p39jsk6vfhkav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
